@@ -8,6 +8,7 @@ use App\Mail\WelcomeEmail;
 
 class UserObserver
 {
+    
     /**
      * Handle the User "created" event.
      *
